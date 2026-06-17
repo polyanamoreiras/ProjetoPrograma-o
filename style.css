@@ -11,8 +11,8 @@
 } 
 
 .cartao {
-    width: 1000px;
-    height: 1000px;
+    width: 500px;
+    height: 500px;
 }
 
 .cartao-imagem {
@@ -39,7 +39,7 @@ h1 {
 } 
 footer { 
   background-color: crimson; 
-  padding: 10px 20px; 
+  padding: 5px 5px; 
   color: #fff; 
 } 
 
